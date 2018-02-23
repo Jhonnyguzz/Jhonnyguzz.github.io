@@ -67,8 +67,11 @@ lines: # You can add HTML Tags in the Text
 # in the end of the url just before '&type' is your user id.
 # Note: fbid is not the same as user id and user id only contains numbers
 
-me-img: "https://graph.facebook.com/10152918202498674/picture?type=large&width=500&height=500"
+# This line give me the picture but I don't know why it doesn't work
+# So, I used this line in browser and copy the url returned 
+# me-img: "https://graph.facebook.com/10152918202498674/picture?type=large&width=500&height=500"
 
+me-img: "https://scontent.xx.fbcdn.net/v/t1.0-1/20156057_10155505599798674_6281694235425520826_n.jpg?oh=126b83e13da9854b50e6b798ab0d1508&oe=5B0A8A41"
 
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
