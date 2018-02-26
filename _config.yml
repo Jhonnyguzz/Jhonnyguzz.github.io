@@ -136,24 +136,27 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
-  - image: "/img/timeline/soa_professional_resize.png"
-    date: "Abril 2017 - Diciembre 2022"
-    description: "SOA Professional Certified"
+  - image: "/img/timeline/unal.png"
+    date: "Septiembre 2018"
+    description: "Estudios de pregrado finalizados"
+  - image: "/img/timeline/soa_java_resize.png"
+    date: "Febrero 2018"
+    description: "SOA Java Developer Certified"
   - image: "/img/timeline/endava_logo_resize.png"
     date: "Enero 2018 - Julio 2018"
     description: "AM Intern en Endava Bogotá"
-  - image: "/img/timeline/soa_java_resize.png"
-    date: "Enero 2018"
-    description: "SOA Java Developer Certified"
+  - image: "/img/timeline/soa_professional_resize.png"
+    date: "Abril 2017 - Diciembre 2022"
+    description: "SOA Professional Certified"
+  - image: "/img/timeline/Rlogo.png"
+    date: "Noviembre 2016"
+    description: "Desarollo del software LatentREGpp para SICS Research Group"
+  - image: "/img/timeline/unal.png"
+    date: "Agosto 2012"
+    description: "Inicio de estudios de pregrado"
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/picture.jpeg"
 
 ###########
 # Contact #
